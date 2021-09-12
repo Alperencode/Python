@@ -83,3 +83,4 @@ class Calisan(Insan):
 
 x = Calisan("Alperen","Ağa",17,"Freelance Developer",("Python","Php","Arduino"))
 y = Calisan("Alperen","Ağa",17,"Freelance Developer",("Python","Php","Arduino"))
+
