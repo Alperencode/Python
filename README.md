@@ -3,7 +3,7 @@
 Before get into my repository if you want to see my Python projects that specialized in specific subject you should check these repositories:
 
 - [BeautifulSoup](https://github.com/Alperencode/BeautifulSoup) :  Web scraping and Data Analysis    
--  [OpenCV](https://github.com/Alperencode/OpenCV): Face detection and kind of OpenCV programs
+- [OpenCV](https://github.com/Alperencode/OpenCV): Face detection and kind of OpenCV programs
 <br/>
 
 ## Repository Description
