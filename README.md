@@ -14,12 +14,4 @@ Python was my first programming language but I learned different programming lan
 
 ## Recently Update
 
-I'm currently researching about Random Forest Model to give a meaning the [data that I scraped](https://github.com/Alperencode/BeautifulSoup/blob/master/School-implementation3/article.jsonl) (it is 25k line of json line file).
-
-<br/>
-<br/>
-
-<img src="https://media.giphy.com/media/BMA9bGrcf7HTNuKWpP/giphy.gif" align="">
-
-##### [(Data scraping program)](https://github.com/Alperencode/BeautifulSoup/tree/master/School-implementation3)
-
+Recently i'm working on configuring 'MIDI' files with python. I'll use this on my internship project. The repo i'm working on is currently private but i'll made it public when i finish the project.
