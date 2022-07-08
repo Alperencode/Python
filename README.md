@@ -14,4 +14,4 @@ Python was my first programming language but I learned different programming lan
 
 ## Recently Update
 
-Recently i'm working on configuring 'MIDI' files with python. I'll use this on my internship project. The repo i'm working on is currently private but i'll made it public when i finish the project.
+Recently I'm working on a project about sending and reading MIDI signals with python. It's my intern project which you can find at [Lemona Science](https://github.com/Alperencode/Lemona-Science). So far I'm working on a GUI program which I made with Tkinter and I continue to develop it according to our needs.
