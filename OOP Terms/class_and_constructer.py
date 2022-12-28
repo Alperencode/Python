@@ -20,19 +20,3 @@ print(ogrenci1.email)
 print(ogrenci1.GiveNameSurname())
 
 print("")
-
-# %%
-class Calisan:
-    def __init__(self,work,time,money):
-        self.work = work
-        self.time = time
-        self.money = money
-
-calisan1 = Calisan("Yazılımcı","Haftaiçi",5000)
-calisan2 = Calisan("Web Tasarımcı","Freelance",2500)
-
-print(calisan1.work)
-print(calisan2.time)
-print(calisan1.money+calisan2.money)
-
-# %%

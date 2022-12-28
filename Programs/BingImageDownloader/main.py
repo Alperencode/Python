@@ -7,4 +7,4 @@ downloader.download("people from drone view", limit=1000,  output_dir='images', 
 # Third one is the output directory
 # Fourth one is the adult filter off (which is closed in this case)
 
-# Additional notes: First pictures can be irrelevant but its will be okay let the program keep running.
+# Additional notes: First pictures can be irrelevant but it will be okay let the program keep running.

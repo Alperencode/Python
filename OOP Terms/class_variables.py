@@ -1,7 +1,6 @@
-# %%
 class Calisan:
 
-    zam_orani = 2.5     # Class'ın içindeki variable'ımız
+    zam_orani = 2.5
     count = 0
 
     def __init__(self,isim,zaman,maas):
@@ -25,4 +24,4 @@ print(Calisan1.maas)
 
 print("")
 
-Calisan.count  #sayaç
+Calisan.count
